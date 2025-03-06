@@ -91,22 +91,10 @@ The app employs the MVVM (Model-View-ViewModel) pattern:
 
 ## Screenshots
 
-<div style="display: flex; gap: 10px;">
-   <figure style="margin: 0; padding: 0;">
-      <img src="./Images/MainView.jpeg" alt="drawing"/>
-        <figcaption>Main Menu</figcaption>
-    </figure>
+| Main Menu | Detailed View | Favorites View |
+|---------|---------|---------|
+| ![Image 1](./Images/MainView.jpeg) | ![Image 2](./Images/DetailedView.jpeg) | ![Image 3](./Images/FavoritesView.jpeg) |
 
-   <figure style="margin: 0; padding: 0;">
-      <img src="./Images/DetailedView.jpeg" alt="drawing"/>
-        <figcaption>Detailed View</figcaption>
-   </figure>
-
-   <figure style="margin: 0; padding: 0;">
-      <img src="./Images/FavoritesView.jpeg" alt="drawing"/>
-        <figcaption>Favorites View</figcaption>
-    </figure>
-</div>
 
 ## Video Demonstration
 
